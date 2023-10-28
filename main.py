@@ -1,13 +1,13 @@
 import tkinter as tk
 import random
 root = tk.Tk()
-with open (r"D:\文件\编程\python\程序\项目\happy\name.txt") as f:
+with open (r"D:\your\list\name.txt") as f:
     name = f.read()
     who = name.split("\n")
-with open (r"D:\文件\编程\python\程序\项目\happy\location.txt") as f:
+with open (r"D:\your\list\location.txt") as f:
     location = f.read()
     where = location.split("\n")
-with open (r"D:\文件\编程\python\程序\项目\happy\doing.txt") as f:
+with open (r"D:\your\list\doing.txt") as f:
     doing = f.read()
     do = doing.split("\n")
 def run():
