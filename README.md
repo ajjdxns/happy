@@ -1,3 +1,2 @@
 Let's we happy!
-[download of pan.baidu.com](https://pan.baidu.com/s/1APtDNtVoKHBByC62EyIXTg?pwd=jjpy)
-password = jjpy
+[download of pan.baidu.com](https://pan.baidu.com/s/1tzo6anKeVAOYSockBC8Ydg?pwd=jjpy)
